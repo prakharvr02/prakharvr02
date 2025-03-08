@@ -1,19 +1,64 @@
-<h1 align="center">Hi 👋, I'm Cybersecurity Specialist | Specializing in Threat Intelligence, OSINT, and Offensive Security</h1>
-<h3 align="center">Thinking like an attacker to secure what matters</h3>
+# Prakhar Verma
 
-- 🌱 I’m currently learning **Reverse Engineering and Binary Exploitation**
+## Cyber Threat Intelligence Researcher & Security Analyst
 
-- 👨‍💻 All of my projects are available at [https://github.com/prakharvr02](https://github.com/prakharvr02)
+---
 
-- 💬 Ask me about **Only Cybersecurity and OSINT related QnA**
+### About Me
 
-- 📫 How to reach me **prakharvr02@gmail.com**
+Cybersecurity professional specialized in threat intelligence with extensive experience in security analysis, digital forensics, and malware research. Committed to proactively identifying emerging threats and strengthening organizational security postures through actionable intelligence.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/prakharvr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prakharvr" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+### Technical Expertise
 
+#### Threat Intelligence
+- **MITRE ATT&CK Framework** - Mapping threat actor TTPs and creating comprehensive threat profiles
+- **Intelligence Platforms** - MISP, STIX/TAXII, AlienVault OTX, ThreatConnect
+- **OSINT** - Advanced open-source intelligence gathering and analysis
+- **CTI Reports** - Development of actionable intelligence for strategic decision-making
+
+#### Security Operations
+- **SIEM/SOAR** - Splunk, TheHive, IBM QRadar implementation and optimization
+- **EDR/XDR** - Endpoint detection and response solutions
+- **IDS/IPS** - Network traffic analysis and threat detection
+- **Wazuh** - Host-based intrusion detection and security monitoring
+
+#### Malware Analysis
+- **Static/Dynamic Analysis** - Reverse engineering malicious code
+- **Sandboxing** - ANY.RUN, VirusTotal, Cuckoo Sandbox
+- **Binary Exploitation** - Vulnerability research and exploit development
+
+#### Programming & Scripting
+- **Python** - Automation of security workflows and custom tool development
+- **Bash** - System administration and security scripting
+- **C** - Low-level application security analysis
+
+#### Web Application Security
+- **OWASP** - Web vulnerability assessment and remediation
+- **API Security** - REST/SOAP API testing and security validation
+- **Secure Development** - Secure coding practices and SDLC integration
+
+---
+
+### Current Focus
+
+- Advanced threat hunting methodologies
+- Supply chain attack detection and prevention
+- Emerging ransomware threat landscape
+- Zero-day vulnerability research
+- Threat intelligence automation
+
+---
+
+### Experience Highlights
+
+- Led threat intelligence operations for enterprise environments
+- Developed custom threat feeds for industry-specific attack vectors
+- Performed incident response for sophisticated APT campaigns
+- Integrated threat intelligence into security operations workflows
+- Established CTI programs from the ground up
+
+---
+
+> "Intelligence without action is just information. The value of CTI lies in its operational implementation."
