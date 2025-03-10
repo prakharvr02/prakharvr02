@@ -1,12 +1,12 @@
 # Prakhar Verma
 
-## Cyber Threat Intelligence | SOC Analyst 
+## Cyber Threat Intelligence | Security Analyst 
 
 ---
 
 ### About Me
 
-Experienced Cyber Threat Intelligence and SOC Analyst with expertise in threat hunting, OSINT, digital forensics, and risk management. I specialize in identifying, analyzing, and mitigating advanced threats across enterprise environments using a comprehensive toolkit of security technologies and methodologies.
+Experienced Cyber Threat Intelligence and Security Analyst with expertise in threat hunting, OSINT, digital forensics, and risk management. I specialize in identifying, analyzing, and mitigating advanced threats across enterprise environments using a comprehensive toolkit of security technologies and methodologies.
 
 ---
 
@@ -35,7 +35,7 @@ Experienced Cyber Threat Intelligence and SOC Analyst with expertise in threat h
 - Passive reconnaissance (Shodan, Censys, OSINT Framework)
 - HUMINT collection and analysis
 
-#### SOC Analyst
+#### Security Analyst
 - Security incident detection, triage and response
 - SIEM management (Splunk, ELK Stack, QRadar)
 - Alert correlation and prioritization
