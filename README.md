@@ -102,11 +102,11 @@ Experienced Cyber Threat Intelligence and Security Analyst with expertise in thr
 ---
 
 ### Projects
-- **Threat Intelligence Platform (TIP) Development**: Build a custom Threat Intelligence Platform that aggregates, analyzes, and visualizes threat data from open-source intelligence (OSINT) feeds, dark web monitoring, and APIs like AlienVault OTX, VirusTotal, or AbuseIPDB.
-- **SIEM Implementation and Incident Response Simulation**: Set up a Security Information and Event Management (SIEM) system (e.g., Splunk, ELK Stack, or QRadar) and simulate real-world attack scenarios to detect and respond to threats.
-- **Malware Analysis and Reverse Engineering**: Analyze real-world malware samples (from sources like VirusShare or MalwareBazaar) using tools like IDA Pro, Ghidra, or Cuckoo Sandbox.
-- **Dark Web Monitoring and Threat Actor Profiling**: Conduct a deep dive into dark web forums and marketplaces to monitor threat actor activity, identify potential threats, and profile adversaries.
-- **Vulnerability Assessment and Penetration Testing (VAPT)**: Perform a comprehensive vulnerability assessment and penetration test on a simulated network or web application (e.g., OWASP Juice Shop, Metasploitable).
+- Log Analysis using Splunk
+- Phishing Email Analysis
+- Dark Web Monitoring with OSINT
+- Network Traffic Analysis using Wireshark
+- Yara Rules for Malware Detection
 
 ---
 
