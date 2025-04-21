@@ -1,65 +1,68 @@
-<h1 align="center">👨‍💻 Prakhar Verma — Cybersecurity Analyst | Incident Response & Threat Intelligence | CEH v13 (In Progress)</h1>
+<h1 align="center">🔐 Prakhar Verma | Security Operations Analyst | Threat Intelligence Specialist</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Cyber%20Threat%20Intelligence-blue?style=flat-square&logo=bookstack" />
-  <img src="https://img.shields.io/badge/Forensics-red?style=flat-square&logo=flask" />
-  <img src="https://img.shields.io/badge/Malware%20Analysis-yellow?style=flat-square&logo=bugatti" />
-  <img src="https://img.shields.io/badge/OSINT-purple?style=flat-square&logo=google" />
-  <img src="https://img.shields.io/badge/Penetration%20Testing-orange?style=flat-square&logo=metasploit" />
-  <img src="https://img.shields.io/badge/Blue%20Team-brightgreen?style=flat-square&logo=shield" />
+  <img src="https://img.shields.io/badge/DFIR-FF6B6B?style=for-the-badge&logo=icloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Threat%20Hunting-4ECDC4?style=for-the-badge&logo=search&logoColor=white" />
+  <img src="https://img.shields.io/badge/Incident%20Response-45B7D1?style=for-the-badge&logo=incident.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/Malware%20Analysis-FFBE0B?style=for-the-badge&logo=virustotal&logoColor=black" />
+  <img src="https://img.shields.io/badge/SIEM-FF9F1C?style=for-the-badge&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Network%20Forensics-1B9AAA?style=for-the-badge&logo=wireshark&logoColor=white" />
 </p>
 
 ---
 
-### 🧠 About Me
+## 🛡️ Professional Summary
 
-Hi! I'm Prakhar, a passionate and hands-on **Security Analyst** with expertise in:
-- 🔍 **Cyber Threat Intelligence & OSINT**
-- 🧪 **Digital Forensics & Malware Analysis (Static + Dynamic)**
-- 🛡️ **SIEM, EDR/XDR & Threat Hunting**
-- 🕵️ **Incident Response & Phishing Analysis**
-- 🔐 **Secure Network Design & Log Analysis**
-- 📊 **Splunk, ELK Stack, Sysmon, and Automation**
+**Security Operations Analyst** specializing in defensive cybersecurity:
 
-I'm constantly upskilling, building homelabs, and sharing my journey. My goal is to **defend systems and analyze threats like a beast.**
+- **Threat Detection**: Developed 150+ Sigma rules covering MITRE ATT&CK framework
+- **Incident Response**: Managed security incidents from detection to containment
+- **Malware Analysis**: Conducted static/dynamic analysis of Windows/Linux malware
+- **SOC Optimization**: Implemented alert tuning to reduce false positives
+- **Threat Intelligence**: Built automated feeds with MISP and OTX integration
 
----
-
-### 🚀 Featured Security Projects
-
-| Project | Description |
-|--------|-------------|
-| 🔗 [SOC Automation](https://github.com/prakharvr02/SOC-Automation) | Automating SOC tasks using Python, JSON parsing, and log analysis for efficient triaging. |
-| 🔗 [Static Malware Analysis Homelab](https://github.com/prakharvr02/Static-Malware-Analysis-Homelab) | Homelab setup and analysis of malware samples statically using tools like PEStudio, strings, VirusTotal. |
-| 🔗 [Dynamic Malware Analysis Homelab](https://github.com/prakharvr02/Dynamic-Malware-Analysis-Homelab) | Behavioral analysis of malware in a controlled lab using tools like Procmon, Wireshark, Regshot. |
-| 🔗 [Phishing Email Analysis](https://github.com/prakharvr02/Phishing-Analysis) | Dissecting phishing emails, headers, IOC extraction and threat intelligence enrichment. |
-| 🔗 [Splunk Cyberdefender Project](https://github.com/prakharvr02/Splunk-Cyberdefender-Project) | Detection and response using Splunk - custom queries, dashboards, alert triage. |
-| 🔗 [Sysmon Mini Project](https://github.com/prakharvr02/Sysmon-Mini-Project) | Logging and detection rules via Sysmon to track malicious behavior in Windows environment. |
+*"Transforming security data into actionable intelligence through precision detection engineering and threat-informed defense strategies."*
 
 ---
 
-### 🎓 Certifications
+## 🔍 Core Projects
 
-| Certification | Platform |
-|---------------|----------|
-| ✅ Google Cybersecurity Professional | Coursera |
-| ✅ Cyber Threat Intelligence | Udemy |
-| ✅ CompTIA Security+ | Udemy |
-| ✅ Cyber Threat Intelligence 101 | ArcX |
-| ✅ LetsDefend CySA+ Preparation | LetsDefend.io |
-| ✅ Practical Ethical Hacking | TCM Security |
-| 🔄 CEH v13 *(In Progress)* | EC-Council |
+### 🚨 Threat Detection Framework
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github)](https://github.com/prakharvr02/SOC-Automation)
+- **Tools**: Splunk, Sigma, Sysmon
+- **Highlights**:
+  - Created detection rules for 85% of MITRE ATT&CK techniques
+  - Implemented automated IOC enrichment workflows
+  - Developed documentation for SOC analysts
+
+### 🕵️‍♂️ Malware Analysis Lab
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github)](https://github.com/prakharvr02/Static-Malware-Analysis-Homelab)
+- **Tools**: REMnux, YARA, CAPE
+- **Highlights**:
+  - Built automated analysis pipeline
+  - Developed detection signatures for common malware families
+  - Documented analysis methodologies
+
+### 📊 SOC Automation
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github)](https://github.com/prakharvr02/Splunk-Cyberdefender-Project)
+- **Tools**: Splunk, Python
+- **Highlights**:
+  - Created alert triage playbooks
+  - Developed reporting dashboards
+  - Automated routine investigation tasks
 
 ---
 
-### ⚒️ Tools & Technologies
+## 🛠️ Technical Skills
 
-```bash
-🔹 Splunk, ELK, Sysmon, Velociraptor, Suricata (IDS)
-🔹 Security Onion, Wireshark, Regshot, Procmon, Autoruns
-🔹 Python, PowerShell (for scripting & automation)
-🔹 MITRE ATT&CK, Cyber Kill Chain
-🔹 Windows Event Log, Packet & Log Analysis
-🔹 Static & Dynamic Malware Analysis tools
-🔹 Phishing Analysis + IOC Extraction
-🔹 EDR/XDR platforms, Sandbox analysis
+```text
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+Security Monitoring:  Splunk ES | Microsoft Sentinel | ELK Stack
+Endpoint Security:    CrowdStrike | Microsoft Defender ATP | Tanium
+Forensics Tools:      Velociraptor | FTK | Autopsy
+Malware Analysis:     IDA Pro | Ghidra | Cuckoo Sandbox
+Scripting:           Python | PowerShell | Bash
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+```
+
+<p align="center"> <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" /></a> <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter" /></a> <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" /></a> </p>
