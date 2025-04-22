@@ -1,67 +1,77 @@
-<h1 align="center">🔐 Prakhar Verma | Security Operations Analyst | Threat Intelligence Specialist</h1>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/DFIR-FF6B6B?style=for-the-badge&logo=icloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Threat%20Hunting-4ECDC4?style=for-the-badge&logo=search&logoColor=white" />
-  <img src="https://img.shields.io/badge/Incident%20Response-45B7D1?style=for-the-badge&logo=incident.io&logoColor=white" />
-  <img src="https://img.shields.io/badge/Malware%20Analysis-FFBE0B?style=for-the-badge&logo=virustotal&logoColor=black" />
-  <img src="https://img.shields.io/badge/SIEM-FF9F1C?style=for-the-badge&logo=splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Network%20Forensics-1B9AAA?style=for-the-badge&logo=wireshark&logoColor=white" />
-</p>
+# 🧑‍💻 Prakhar Verma  
+**Security Operations Analyst | Threat Intelligence Enthusiast**  
+📍 India | 🌐 CEH Certified | 💼 Blue Team Specialist
 
 ---
 
-## 🛡️ Professional Summary
+## 🚀 About Me
 
-**Security Operations Analyst** specializing in defensive cybersecurity:
+Hi there! I'm Prakhar, a security analyst with a hacker's mindset and a defender's heart.
 
-- **Threat Detection**: Developed 150+ Sigma rules covering MITRE ATT&CK framework
-- **Incident Response**: Managed security incidents from detection to containment
-- **Malware Analysis**: Conducted static/dynamic analysis of Windows/Linux malware
-- **SOC Optimization**: Implemented alert tuning to reduce false positives
-- **Threat Intelligence**: Built automated feeds with MISP and OTX integration
+I specialize in **threat detection**, **incident response**, and **malware analysis**. My work focuses on automating SOC processes and building threat-aware detection rules mapped to **MITRE ATT&CK**.
 
-*"Transforming security data into actionable intelligence through precision detection engineering and threat-informed defense strategies."*
-
----
-
-## 🔍 Core Projects
-
-### 🚨 Threat Detection Framework
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github)](https://github.com/prakharvr02/SOC-Automation)
-- **Tools**: Splunk, Sigma, Sysmon
-- **Highlights**:
-  - Created detection rules for 85% of MITRE ATT&CK techniques
-  - Implemented automated IOC enrichment workflows
-  - Developed documentation for SOC analysts
-
-### 🕵️‍♂️ Malware Analysis Lab
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github)](https://github.com/prakharvr02/Static-Malware-Analysis-Homelab)
-- **Tools**: REMnux, YARA, CAPE
-- **Highlights**:
-  - Built automated analysis pipeline
-  - Developed detection signatures for common malware families
-  - Documented analysis methodologies
-
-### 📊 SOC Automation
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github)](https://github.com/prakharvr02/Splunk-Cyberdefender-Project)
-- **Tools**: Splunk, Python
-- **Highlights**:
-  - Created alert triage playbooks
-  - Developed reporting dashboards
-  - Automated routine investigation tasks
+🔭 I’m currently working on:
+- Building a custom Threat Intel pipeline using OTX + MISP
+- Enhancing my malware analysis lab with dynamic capabilities
+- Practicing SOC playbooks with LetsDefend and TryHackMe labs
 
 ---
 
-## 🛠️ Technical Skills
+## 🧩 Featured Projects
 
-```text
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-Security Monitoring:  Splunk ES | Microsoft Sentinel | ELK Stack
-Endpoint Security:    CrowdStrike | Microsoft Defender ATP | Tanium
-Forensics Tools:      Velociraptor | FTK | Autopsy
-Malware Analysis:     IDA Pro | Ghidra | Cuckoo Sandbox
-Scripting:           Python | PowerShell | Bash
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-```
+### 🔹 [SOC Automation Framework](https://github.com/prakharvr02/SOC-Automation)
+A complete end-to-end automated detection and response setup using:
+- 💻 Windows + Sysmon logs
+- 🛡️ Wazuh + TheHive
+- ⚙️ Shuffle SOAR workflows
+- 🔬 VirusTotal enrichment
 
+> 🚀 Real-time alert triage, IOC correlation, and auto case creation.
+
+---
+
+### 🔹 [Static Malware Analysis Homelab](https://github.com/prakharvr02/Static-Malware-Analysis-Homelab)
+Reverse-engineering setup with FLARE VM:
+- 🧠 PE analysis, string extraction, obfuscation detection
+- 🛠️ Tools used: PEStudio, FLOSS, XORSearch, UPX
+- 📄 Documented each sample for repeatability
+
+---
+
+### 🔹 [Splunk CyberDefender Project](https://github.com/prakharvr02/Splunk-Cyberdefender-Project)
+- 🧩 Wrote 150+ Sigma rules mapped to ATT&CK
+- 📊 Built visual dashboards for detection insights
+- 🔁 Automated IOC lookup & case escalation
+
+---
+
+## 🛠️ My Toolbox
+
+| Category            | Tools Used                                                                 |
+|---------------------|------------------------------------------------------------------------------|
+| 🧠 SIEM & Monitoring | Splunk, ELK Stack, Microsoft Sentinel                                        |
+| 🛡️ Threat Intel      | MISP, OTX, AbuseIPDB                                                         |
+| 🔍 Malware Analysis  | FLARE VM, Ghidra, IDA Pro, CAPE, YARA                                        |
+| 🖥️ Endpoint Security | Sysmon, Defender ATP, CrowdStrike                                            |
+| 🧰 SOAR & Case Mgmt  | Shuffle, TheHive                                                              |
+| 🧑‍💻 Scripting         | Python, PowerShell, Bash                                                      |
+
+---
+
+## 📚 Certifications & Training
+
+- ✅ **CEH** – Certified Ethical Hacker
+- ✅ **Blue Team Labs** – LetsDefend (SIEM, Malware, IR, Threat Hunting)
+- ✅ **TryHackMe** – Ongoing labs for Red + Blue side knowledge
+
+---
+
+## 📫 Let's Connect
+
+- 🔗 [LinkedIn](https://linkedin.com/in/prakharvr02)
+- 💌 Email: prakharvr02@example.com *(replace with your actual one)*
+- 🌐 GitHub: [github.com/prakharvr02](https://github.com/prakharvr02)
+
+---
+
+_Thanks for visiting! If you're a recruiter, collaborator, or fellow cyber geek — let's team up and defend the digital world together._ 🛡️💻
