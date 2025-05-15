@@ -1,63 +1,64 @@
-# Cybersecurity Professional | SOC Operations, Threat Detection & Response
+# Prakhar Verma  
+### Cybersecurity Professional | SOC Operations, Threat Detection & Response
 
-```bash
-┌──(root㊙️prakhar)-[~/portfolio]
-└─$ cat security_profile.md
+---
 
-  ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-  █░▄▄▄█░▄▄▀█░▄▄▀█░▄▄█░▄▄▀█░██░█░▄▄▀█░▄▄█
-  █░█▄▀█░▀▀░█░██░█░▄▄█░▀▀▄█░██░█░██░█▄▄▀█
-  █▄▄▄▄█▄██▄█▄▄▄▄█▄▄▄█▄█▄▄█▄▄▄▄█▄▄▄▄█▄▄▄█
-  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+## Professional Summary  
+Security professional with expertise in SOC operations and threat intelligence analysis. Certified in ethical hacking and cybersecurity fundamentals with hands-on experience in SIEM platforms, incident response, and malware analysis.
 
-### [CORE COMPETENCIES]
-🔐 Security Analyst:
-  ├─ SIEM Operations (Splunk/Wazuh)
-  ├─ Incident Response & Triage
-  ├─ Threat Hunting (Sigma/YARA)
-  ├─ Vulnerability Assessment
-  └─ Security Awareness Training
+---
 
-🕵️ Junior CTI Analyst:
-  ├─ IOC Collection & Analysis
-  ├─ Threat Actor Profiling
-  ├─ STIX/TAXII Formatting
-  ├─ OSINT Collection
-  └─ Tactical Reporting
+## Core Competencies  
 
-### [TECHNICAL PROJECTS]
-🖥️ Splunk BOTSv3 Lab:
-  ├─ Developed 15+ detection rules
-  ├─ Created visual investigation guides
-  ├─ Mapped to MITRE ATT&CK TTPs
-  └─ Tools: Splunk ES, Phantom
+**Security Operations:**  
+- SIEM administration (Splunk, Wazuh)  
+- Incident response and triage  
+- Threat hunting and detection engineering  
+- Vulnerability assessment and management  
 
-🤖 SOC Automation:
-  ├─ Wazuh + TheHive integration
-  ├─ 20+ automated playbooks
-  ├─ MISP threat intel feeds
-  └─ Reduced MTTR by 35%
+**Threat Intelligence:**  
+- Indicator of Compromise (IOC) analysis  
+- Threat actor profiling and tracking  
+- STIX/TAXII formatting and sharing  
+- Open-source intelligence (OSINT) collection  
 
-🔬 Malware Analysis:
-  ├─ Static: PEStudio/FLOSS/XORSearch
-  ├─ Dynamic: Cuckoo Sandbox
-  ├─ 50+ samples analyzed
-  └─ YARA rule development
+---
 
-### [CERTIFICATIONS]
-📜 Certified Ethical Hacker (CEH-Practical)
-📜 Google Cybersecurity Professional
-📜 Cyber Threat Intelligence 101 (ARCX)
-📜 Splunk Core Certified User
-📜 LetsDefend SOC Analyst
+## Professional Experience  
 
-### [CONTACT]
-📧 prakhar.verma@protonmail.com
-🔗 www.linkedin.com/in/prakharvr
-💻 github.com/prakhar-verma
+**Splunk BOTSv3 Lab**  
+- Developed 15+ detection rules mapped to MITRE ATT&CK framework  
+- Created visual investigation guides for SOC analysts  
+- Documented common attack patterns and detection methods  
 
-┌──[SYSTEM INFO]───────────────────────┐
-│ OS: Security Professional v2.4       │
-│ Shell: Python 3.10 + Bash            │
-│ Last Patched: June 2024              │
-└──────────────────────────────────────┘
+**SOC Automation Project**  
+- Integrated Wazuh SIEM with TheHive case management system  
+- Automated response workflows for common alert types  
+- Reduced mean time to respond (MTTR) by 35%  
+
+**Malware Analysis Research**  
+- Conducted static analysis of 50+ malware samples  
+- Documented findings including IOCs and behavioral patterns  
+- Developed detection signatures for common malware families  
+
+---
+
+## Certifications  
+- Certified Ethical Hacker (Practical) - EC-Council  
+- Google Cybersecurity Professional - Coursera  
+- Splunk Core Certified User  
+- LetsDefend SOC Analyst Certification  
+
+---
+
+## Education  
+- Bachelor's in Technology (Computer Science and Engineering) 
+
+---
+
+## Contact  
+**Email:** prakharvr02@gmail.com  
+**LinkedIn:** [linkedin.com/in/prakharvr](https://www.linkedin.com/in/prakharvr)  
+**GitHub:** [github.com/prakhar-verma](https://github.com/prakharvr02)  
+
+---
