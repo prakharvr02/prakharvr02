@@ -1,77 +1,63 @@
-# 🧑‍💻 Prakhar Verma  
-**Security Operations Analyst | Threat Intelligence Enthusiast**  
-📍 India | 🌐 CEH Certified | 💼 Blue Team Specialist
+# Cybersecurity Professional | SOC Operations, Threat Detection & Response
 
----
+```bash
+┌──(root㊙️prakhar)-[~/portfolio]
+└─$ cat security_profile.md
 
-## 🚀 About Me
+  ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+  █░▄▄▄█░▄▄▀█░▄▄▀█░▄▄█░▄▄▀█░██░█░▄▄▀█░▄▄█
+  █░█▄▀█░▀▀░█░██░█░▄▄█░▀▀▄█░██░█░██░█▄▄▀█
+  █▄▄▄▄█▄██▄█▄▄▄▄█▄▄▄█▄█▄▄█▄▄▄▄█▄▄▄▄█▄▄▄█
+  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 
-Hi there! I'm Prakhar, a security analyst with a hacker's mindset and a defender's heart.
+### [CORE COMPETENCIES]
+🔐 Security Analyst:
+  ├─ SIEM Operations (Splunk/Wazuh)
+  ├─ Incident Response & Triage
+  ├─ Threat Hunting (Sigma/YARA)
+  ├─ Vulnerability Assessment
+  └─ Security Awareness Training
 
-I specialize in **threat detection**, **incident response**, and **malware analysis**. My work focuses on automating SOC processes and building threat-aware detection rules mapped to **MITRE ATT&CK**.
+🕵️ Junior CTI Analyst:
+  ├─ IOC Collection & Analysis
+  ├─ Threat Actor Profiling
+  ├─ STIX/TAXII Formatting
+  ├─ OSINT Collection
+  └─ Tactical Reporting
 
-🔭 I’m currently working on:
-- Building a custom Threat Intel pipeline using OTX + MISP
-- Enhancing my malware analysis lab with dynamic capabilities
-- Practicing SOC playbooks with LetsDefend and TryHackMe labs
+### [TECHNICAL PROJECTS]
+🖥️ Splunk BOTSv3 Lab:
+  ├─ Developed 15+ detection rules
+  ├─ Created visual investigation guides
+  ├─ Mapped to MITRE ATT&CK TTPs
+  └─ Tools: Splunk ES, Phantom
 
----
+🤖 SOC Automation:
+  ├─ Wazuh + TheHive integration
+  ├─ 20+ automated playbooks
+  ├─ MISP threat intel feeds
+  └─ Reduced MTTR by 35%
 
-## 🧩 Featured Projects
+🔬 Malware Analysis:
+  ├─ Static: PEStudio/FLOSS/XORSearch
+  ├─ Dynamic: Cuckoo Sandbox
+  ├─ 50+ samples analyzed
+  └─ YARA rule development
 
-### 🔹 [SOC Automation Framework](https://github.com/prakharvr02/SOC-Automation)
-A complete end-to-end automated detection and response setup using:
-- 💻 Windows + Sysmon logs
-- 🛡️ Wazuh + TheHive
-- ⚙️ Shuffle SOAR workflows
-- 🔬 VirusTotal enrichment
+### [CERTIFICATIONS]
+📜 Certified Ethical Hacker (CEH-Practical)
+📜 Google Cybersecurity Professional
+📜 Cyber Threat Intelligence 101 (ARCX)
+📜 Splunk Core Certified User
+📜 LetsDefend SOC Analyst
 
-> 🚀 Real-time alert triage, IOC correlation, and auto case creation.
+### [CONTACT]
+📧 prakhar.verma@protonmail.com
+🔗 www.linkedin.com/in/prakharvr
+💻 github.com/prakhar-verma
 
----
-
-### 🔹 [Static Malware Analysis Homelab](https://github.com/prakharvr02/Static-Malware-Analysis-Homelab)
-Reverse-engineering setup with FLARE VM:
-- 🧠 PE analysis, string extraction, obfuscation detection
-- 🛠️ Tools used: PEStudio, FLOSS, XORSearch, UPX
-- 📄 Documented each sample for repeatability
-
----
-
-### 🔹 [Splunk CyberDefender Project](https://github.com/prakharvr02/Splunk-Cyberdefender-Project)
-- 🧩 Wrote 150+ Sigma rules mapped to ATT&CK
-- 📊 Built visual dashboards for detection insights
-- 🔁 Automated IOC lookup & case escalation
-
----
-
-## 🛠️ My Toolbox
-
-| Category            | Tools Used                                                                 |
-|---------------------|------------------------------------------------------------------------------|
-| 🧠 SIEM & Monitoring | Splunk, ELK Stack, Microsoft Sentinel                                        |
-| 🛡️ Threat Intel      | MISP, OTX, AbuseIPDB                                                         |
-| 🔍 Malware Analysis  | FLARE VM, Ghidra, IDA Pro, CAPE, YARA                                        |
-| 🖥️ Endpoint Security | Sysmon, Defender ATP, CrowdStrike                                            |
-| 🧰 SOAR & Case Mgmt  | Shuffle, TheHive                                                              |
-| 🧑‍💻 Scripting         | Python, PowerShell, Bash                                                      |
-
----
-
-## 📚 Certifications & Training
-
-- ✅ **CEH** – Certified Ethical Hacker
-- ✅ **Blue Team Labs** – LetsDefend (SIEM, Malware, IR, Threat Hunting)
-- ✅ **TryHackMe** – Ongoing labs for Red + Blue side knowledge
-
----
-
-## 📫 Let's Connect
-
-- 🔗 [LinkedIn](https://linkedin.com/in/prakharvr02)
-- 💌 Email: prakharvr02@example.com *(replace with your actual one)*
-- 🌐 GitHub: [github.com/prakharvr02](https://github.com/prakharvr02)
-
----
-
-_Thanks for visiting! If you're a recruiter, collaborator, or fellow cyber geek — let's team up and defend the digital world together._ 🛡️💻
+┌──[SYSTEM INFO]───────────────────────┐
+│ OS: Security Professional v2.4       │
+│ Shell: Python 3.10 + Bash            │
+│ Last Patched: June 2024              │
+└──────────────────────────────────────┘
